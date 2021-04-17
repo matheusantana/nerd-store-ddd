@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3G4yqfwqEE8E0fKtkkzJ+KCM3PvSQg1UCXRSEDZE454CMDT4atf2LAdZArCntD9gJnqSw1BGmmB72QZNLJ4Ykw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus\\source\\repos\\NerdStore\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus\\.nuget\\packages\\fluentvalidation\\10.0.4\\fluentvalidation.10.0.4.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
