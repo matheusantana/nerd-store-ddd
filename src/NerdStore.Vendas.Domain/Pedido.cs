@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace NerdStore.Vendas.Domain
 {
-    ublic class Pedido : Entity, IAggregateRoot
+    public class Pedido : Entity, IAggregateRoot
     {
         public int Codigo { get; private set; }
         public Guid ClienteId { get; private set; }
@@ -175,6 +175,4 @@ namespace NerdStore.Vendas.Domain
             }
         }
     }
-
-
 }
